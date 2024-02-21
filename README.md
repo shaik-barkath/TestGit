@@ -1,2 +1,2 @@
 # TestGit
-This is TestGit Repo
+Learning the basics of Git and gitHub
